@@ -161,3 +161,9 @@
   .slick-arrow.slick-hidden {
       display: none;
   }
+
+
+/* footer */
+.footer_logo{
+    width: 35%;
+}
